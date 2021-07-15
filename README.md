@@ -8,7 +8,7 @@
 <img height="160em" src="https://camo.githubusercontent.com/928aaf00c1c7b2e5b6489563a93e8e1b534afd78a9b5ce2ad0a7e6d5ea364578/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4761627269656c5669746f7231383037267468656d653d7265616374266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVitor1807&amp;theme=react&amp;layout=compact" style="max-width:100%;">
 </div>
 
-<img alt="GIF" align="right" src="https://giffiles.alphacoders.com/209/209661.gif" width="120rem" style="max-width:100%;">
+<img alt="GIF" align="right" src="/connecting.gif" width="120rem" style="max-width:100%;">
 
 <div><br>
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
