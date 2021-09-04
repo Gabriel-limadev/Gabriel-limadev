@@ -2,9 +2,6 @@
 
 <p align="center"> 👨🏻‍💻 Estudando Desenvolvimento de Sistemas e buscando aprender cada dia mais 👨🏻‍💻</p> 
 
-<img height="200em" src="https://camo.githubusercontent.com/d7d917437da50ee8a3bf055b91390992f3a2659de2b787abf9ef41e19dec4843/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4761627269656c5669746f72313830372673686f775f69636f6e733d74727565267468656d653d7265616374" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Gabriel-limadev&show_icons=true&theme=react" style="max-width:100%;">
-
-
 <h3 align="center">🧠Atualmente projetando:</h3>
      
 <div align="center">
