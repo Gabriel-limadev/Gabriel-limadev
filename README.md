@@ -2,14 +2,14 @@
 
 <p align="center"> 👨🏻‍💻 Estudando Desenvolvimento de Sistemas e buscando aprender cada dia mais 👨🏻‍💻</p> 
 
-<img height="200em" src="https://camo.githubusercontent.com/d7d917437da50ee8a3bf055b91390992f3a2659de2b787abf9ef41e19dec4843/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4761627269656c5669746f72313830372673686f775f69636f6e733d74727565267468656d653d7265616374" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GabrielVitor1807&show_icons=true&theme=react" style="max-width:100%;">
+<img height="200em" src="https://camo.githubusercontent.com/d7d917437da50ee8a3bf055b91390992f3a2659de2b787abf9ef41e19dec4843/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4761627269656c5669746f72313830372673686f775f69636f6e733d74727565267468656d653d7265616374" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Gabriel-limadev&show_icons=true&theme=react" style="max-width:100%;">
 
 
 <h3 align="center">🧠Atualmente projetando:</h3>
      
 <div align="center">
-<a href="https://github.com/GabrielVitor1807/Buscafe">
-      <img src="https://camo.githubusercontent.com/f7acce33ae7ee94633864382f063a4706f53c6bd1b85f1469a3a05cb8a03b759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d49676f72636272617a267265706f3d42757363616665267468656d653d626c75656265727279" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielVitor1807&amp;repo=Buscafe&amp;theme=blueberry" style="max-width:100%;">
+<a href="https://github.com/Gabriel-limadev/Buscafe">
+      <img src="https://camo.githubusercontent.com/f7acce33ae7ee94633864382f063a4706f53c6bd1b85f1469a3a05cb8a03b759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d49676f72636272617a267265706f3d42757363616665267468656d653d626c75656265727279" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&amp;repo=Buscafe&amp;theme=blueberry" style="max-width:100%;">
 </a>
 </div>
 
@@ -22,7 +22,7 @@
   <img align="center" alt="logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
   <img align="center" alt="Logo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" style="max-width:100%;">
   <img align="center" alt="Logo-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width:100%;">
-  <img align="center" alt="Logo-Ubunto" height="30" width="40" src="https://github.com/GabrielVitor1807/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
+  <img align="center" alt="Logo-Ubunto" height="30" width="40" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
 </p>
   <hr>
 <div align="center">
