@@ -5,10 +5,14 @@
 <h3 align="center">🧠Atualmente projetando:</h3>
      
 <div align="center">
-<a href="https://github.com/Gabriel-limadev/Buscafe">
-      <img src="https://camo.githubusercontent.com/f7acce33ae7ee94633864382f063a4706f53c6bd1b85f1469a3a05cb8a03b759/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d49676f72636272617a267265706f3d42757363616665267468656d653d626c75656265727279" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&amp;repo=Buscafe&amp;theme=blueberry" style="max-width:100%;">
+<a href="https://github.com/IgorcBraz/Buscafe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" />
+</a>
+<a href="https://github.com/Gabriel-limadev/Invasao-Alienigena">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" />
 </a>
 </div>
+
 
 <br>
 <p align="center">
