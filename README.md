@@ -1,16 +1,16 @@
-<h1 align="center">Olá 👋, Sou o Gabriel Vitor</h1> 
+<h1 align="center">Hi 👋, I'm Gabriel Lima</h1> 
 
-<p align="center"> 👨🏻‍💻 Estudando Desenvolvimento de Sistemas e buscando aprender cada dia mais 👨🏻‍💻</p> 
+<p align="center"> 👨🏻‍💻 Studying software developer 👨🏻‍💻</p> 
 
 
 
-<h3 align="center">🧠Atualmente projetando:</h3>
+<h3 align="center">🧠Current projects:</h3>
      
 <a href="https://github.com/IgorcBraz/Buscafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:300px"/>
 </a>
 <a href="https://github.com/Gabriel-limadev/Invasao-Alienigena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" style="width:400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" style="width:300px"/>
 </a>
 
 <br>
@@ -18,12 +18,12 @@
 <details closed>
   <summary><b>Languages</b></summary>
 <br>
-<div align="center">
-   <img alt="logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-   <img alt="Logo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-   <img alt="logo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
-   <img alt="Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-</div>
+   <div align="center">
+     <img alt="logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+     <img alt="Logo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+     <img alt="Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+     <img alt="logo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  </div>
 </details>
 
 <details closed>
