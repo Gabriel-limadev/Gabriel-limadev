@@ -7,10 +7,10 @@
 <h3 align="center">🧠Current projects:</h3>
      
 <a href="https://github.com/IgorcBraz/Buscafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:350px"/>
 </a>
 <a href="https://github.com/Gabriel-limadev/Invasao-Alienigena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" style="width:300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" style="width:350px"/>
 </a>
 
 <br>
