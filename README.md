@@ -2,37 +2,49 @@
 
 <p align="center"> 👨🏻‍💻 Estudando Desenvolvimento de Sistemas e buscando aprender cada dia mais 👨🏻‍💻</p> 
 
+
+
 <h3 align="center">🧠Atualmente projetando:</h3>
      
-<div align="center">
 <a href="https://github.com/IgorcBraz/Buscafe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:400px"/>
 </a>
 <a href="https://github.com/Gabriel-limadev/Invasao-Alienigena">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Invasao-Alienigena&amp;theme=blueberry" style="width:400px"/>
 </a>
-</div>
-
 
 <br>
-<p align="center">
-  <img align="center" alt="logo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
-  <img align="center" alt="logo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width:100%;">
-  <img align="center" alt="logo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
-  <img align="center" alt="logo-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">   
-  <img align="center" alt="logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
-  <img align="center" alt="Logo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" style="max-width:100%;">
-  <img align="center" alt="Logo-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width:100%;">
-  <img align="center" alt="Logo-Ubunto" height="30" width="40" src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="max-width:100%;">
-</p>
-  <hr>
+
+<details closed>
+  <summary><b>Languages</b></summary>
+<br>
 <div align="center">
-  <a href="https://instagram.com/gabriel_vituu" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href="https://discord.gg/GabrielVitu#2863" rel="nofollow"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href="https://www.linkedin.com/in/gabrielvitor180701" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>  
+   <img alt="logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+   <img alt="Logo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+   <img alt="logo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
+   <img alt="Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+</div>
+</details>
+
+<details closed>
+  <summary><b>Tools</b></summary>
+<br>
+<div align="center">
+   <img alt="Logo-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+   <img alt="Logo-Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+   <img alt="Logo-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div>
+</details>
+  <hr>
+  
+<div align="center">
+  <a href="https://instagram.com/gabriel_vituu" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.com/channels/@GabrielVitu" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriellimadev/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 <div align="center">
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;"></a></p>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;"></a>
+</p>
 </div>
