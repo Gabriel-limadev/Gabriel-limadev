@@ -15,25 +15,44 @@
 
 <br>
 
-<details closed>
-  <summary><b>Languages</b></summary>
-<br>
-   <div align="center">
-     <img alt="logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-     <img alt="Logo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-     <img alt="Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-     <img alt="logo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  </div>
-</details>
+<h2>knowledge</h2>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</a>
+<a href="https://reactnative.dev/">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</a>
+<a href="https://www.jetbrains.com/pt-br/pycharm/">
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+</a>
 
-<details closed>
-  <summary><b>Tools</b></summary>
-<br>
-<div align="center">
-   <img alt="Logo-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-   <img alt="Logo-Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-   <img alt="Logo-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-</div>
+
+<details>
+  <summary>📃 Resume</summary>
+
+- 📖 **Software Developer**\
+📆 2021 - 2022\
+📍 **Escola Técnica Estadual** - Embu das Artes (SP), Brazil
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+- 👨‍💻 **Technical Support**\
+📆 2021 - moment\
+📍 **Young apprentice** - São Paulo/SP, Brazil
 </details>
   <hr>
   
