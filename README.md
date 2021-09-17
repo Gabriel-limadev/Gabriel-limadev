@@ -4,11 +4,13 @@
 
 
 
-<h3 align="center">🧠Current projects:</h3>
+<h3 align="left">🖊️Current projects:</h3>
      
 <a href="https://github.com/IgorcBraz/Buscafe">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:350px"/>
 </a>
+
+<h3 align="left">🧠Completed projects:</h3>
 <a href="https://github.com/Gabriel-limadev/Alien-Invasion">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Alien-Invasion&amp;theme=blueberry" style="width:350px"/>
 </a>
