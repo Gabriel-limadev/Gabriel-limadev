@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorcBraz&repo=Buscafe&amp;theme=blueberry" style="width:350px"/>
 </a>
 <a href="https://github.com/Gabriel-limadev/Assistente_virtual">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Assistente_virtual&amp;theme=blueberry" style="width:350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-limadev&repo=Assistente_virtual&amp;theme=blueberry" style="width:405px"/>
 </a>
 
 <h3 align="left">🧠Completed projects:</h3>
