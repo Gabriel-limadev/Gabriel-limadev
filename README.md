@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lima</h1> 
 
 <p align="center"> 👨🏻‍💻 A backend developer 👨🏻‍💻</p> 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<img align='right' src="https://user-images.githubusercontent.com/79534537/155796714-5a76c157-b0f7-40cb-82d0-a75b2df7371b.png" width="300" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
 - 🔭 I’m currently working on [Buscafé](https://github.com/IgorcBraz/Buscafe)
