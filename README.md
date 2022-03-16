@@ -31,7 +31,7 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 - 👨‍💻 **Technical Support**\
-📆 Jun/2021 - Mar/2022
+📆 Jun/2021 - Mar/2022\
 📍 **Young apprentice** - São Paulo/SP, Brazil
 </details>
   <hr>
