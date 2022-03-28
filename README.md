@@ -13,7 +13,7 @@
 <h3>Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a
+     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a
      <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="react" width="40" height="40"/> </a> 
      <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
