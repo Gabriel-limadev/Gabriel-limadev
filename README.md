@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lima</h1> 
 
-<p align="center"> 👨🏻‍💻 A backend developer 👨🏻‍💻</p> 
+<p align="center"> 📊 Data analysis 📊</p> 
 <img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" height="330" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
 - 🔭 I’m currently working on [Data Science](https://github.com/Gabriel-limadev/data_science_study)
 - 🌱 I’m currently learning **Pandas**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Linear Regression**
 - 📫 How to reach me **gabrielvitor180701@gmail.com.br**
 
 
@@ -14,11 +14,8 @@
 <p align="left"> 
      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a
-     <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="react" width="40" height="40"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
      <a href="https://www.mongodb.com/lp/video/awareness/getting-started" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="30" height="30"/> </a> 
-     <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-     <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://github.com/Gabriel-limadev/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 </p>
 
 <details>     
